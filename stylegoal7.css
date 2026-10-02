@@ -1,0 +1,28 @@
+h1,h2{
+    color: violet;
+}
+
+.done{
+    color: brown;
+}
+
+.list .done{
+    color: yellowgreen;
+}
+
+.list{
+    color: blue;
+}
+
+body ul p{
+    
+    font-size: x-small;
+}
+
+ul .done{
+    color: black;
+}
+
+body p{
+    font-size: x-large;
+}
